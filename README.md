@@ -37,9 +37,20 @@ A system designed for managing clinic operations, including:
 
 ---
 
-## ⏳ Upcoming Projects
+### 🅿️ Comic-Con Parking Management System
 
-Day 4
+A system designed for managing large-scale event parking, including:
+
+- Vehicle entry and exit tracking
+- Multi-zone and multi-level parking management
+- Smart parking spot allocation based on vehicle type
+- Reserved parking for VIPs, staff, exhibitors, and cosplayers
+- Parking sessions with ticket generation
+- Pricing calculation and payment handling
+
+---
+
+## ⏳ Upcoming Projects
 
 Day 5
 
