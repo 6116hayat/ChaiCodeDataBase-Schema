@@ -50,9 +50,18 @@ A system designed for managing large-scale event parking, including:
 
 ---
 
-## ⏳ Upcoming Projects
+### 🛗 Smart Elevator Control System
 
-Day 5
+A system designed for managing intelligent elevator operations in large buildings, including:
+
+- Multi-building and multi-elevator management
+- Floor-level request generation and tracking
+- Smart ride allocation to the most optimal elevator
+- Elevator-to-floor mapping for zoned and express lifts
+- Ride lifecycle tracking (request → assignment → trip)
+- Real-time elevator status monitoring (idle, moving, maintenance, offline)
+- Maintenance tracking with historical records
+- Ride logs for performance analytics and system optimization
 
 ---
 
